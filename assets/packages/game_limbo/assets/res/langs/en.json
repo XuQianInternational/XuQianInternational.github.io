@@ -42,7 +42,8 @@
             "bet": {
                 "invalidFormat": "Can’t bet more than your balance！",
                 "minimumBetAmount": "This must be greater than {value}.",
-                "zero": "This must be greater than 0."
+                "zero": "This must be greater than 0.",
+                "mustInteger": "Must be integer."
             }
         }
     }

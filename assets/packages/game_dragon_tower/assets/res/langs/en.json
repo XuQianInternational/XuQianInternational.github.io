@@ -34,7 +34,8 @@
             "betRangeError": {
                 "mustInteger": "Must be integer.",
                 "mustPositive": "This must be greater than 0.",
-                "mustLessThanBalance": "Can’t bet more than your balance！"
+                "mustLessThanBalance": "Can’t bet more than your balance！",
+                "minimumBetAmount": "This must be greater than {value}."
             },
             "bombCountTitle": "Mines",
             "gemCountTitle": "Gems",

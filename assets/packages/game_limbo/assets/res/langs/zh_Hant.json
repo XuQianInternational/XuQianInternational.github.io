@@ -36,7 +36,8 @@
             "bet": {
                 "invalidFormat": "投注金額不能超過您的餘額！",
                 "minimumBetAmount": "必須大於{value}。",
-                "zero": "必須大於 0。"
+                "zero": "必須大於 0。",
+                "mustInteger": "請輸入整數。"
             }
         }
     }

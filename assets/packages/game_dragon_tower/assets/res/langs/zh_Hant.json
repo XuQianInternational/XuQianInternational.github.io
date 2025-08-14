@@ -34,7 +34,8 @@
             "betRangeError": {
                 "mustInteger": "請輸入整數。",
                 "mustPositive": "必須大於0。",
-                "mustLessThanBalance": "投注金額不能超過您的餘額！"
+                "mustLessThanBalance": "投注金額不能超過您的餘額！",
+                "minimumBetAmount": "必須大於{value}。"
             },
             "bombCountTitle": "Mines",
             "gemCountTitle": "寶石",
